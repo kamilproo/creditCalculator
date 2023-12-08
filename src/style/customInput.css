@@ -1,0 +1,16 @@
+.input-container {
+    width: 400px;
+    height: 35px;
+    border-radius: 5px;
+    border: solid #bdbdf3 1px;
+}
+
+.input-container:focus {
+    outline: none !important;
+    border: solid #bdbdf3 1px;
+}
+
+.input-container[type=text]{
+    padding-left: 20px;
+}
+

@@ -1,0 +1,11 @@
+.Form-container {
+    display: grid;
+    gap: 10%;
+    position: absolute;
+    top: 620px;
+}
+
+.form-final {
+    position: absolute;
+    top: 620px;
+}
